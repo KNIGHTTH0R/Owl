@@ -1,0 +1,483 @@
+
+"ANC" :
+	{
+	"url" : "strtum+tcp://anc.cryptotroll.com:3338",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://anc.cryptotroll.com/index.php?page=api&action=getpoolstatus&api_key=3256801701f27e75c17af1705736642044c9a779e87cb1b1644574d8b5090b82",
+	"port" : "7882",
+	"name" : "Anoncoin",
+	"initialReward" : "0",
+	"halving" : "0",
+	"blockCalc" : "1",
+	"minimum" : "-1"
+	},
+"ARG" :
+	{
+	"url" : "stratum+tcp://us1.stratum.cryptopools.com:3334",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://arg.cryptopools.com/index.php?page=api&action=getpoolstatus&api_key=d5270590d4f58fa782cc5734a164f263bc775e3e0578429d0f5a4060b827ecc1",
+	"port" : "13580",
+	"name" : "Argentum",
+	"initialReward" : "0",
+	"halving" : "0",
+	"blockCalc" : "1",
+	"minimum" : "-1"
+	},
+	
+"BEN" :
+	{
+	"url" : "stratum+tcp://stratum.ben.hasher.ca:3393",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://ben.hasher.ca/index.php?page=api&action=getpoolstatus&api_key=f788d5cc28e685b22c1d6db2825975fa47f3baf0dc38c1ee67d0fac255db1bba",
+	"port" : "9336",
+	"name" : "Benjamin",
+	"initialReward" : "100",
+	"halving" : "64000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+	
+"BAT" :
+	{
+	"url" : "stratum+tcp://bat.pools.triplehexxx.net:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://bat.pools.triplehexxx.net/index.php?page=api&action=getpoolstatus&api_key=40ab70771b480244738237003ea778625384ddff2701b9ec2fa738b7bfc521ad",
+	"port" : "10743",
+	"name" : "Batcoin",
+	"initialReward" : "60000",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+"BCX" :
+	{
+	"url" : "stratum+tcp://bcx.minebig.com:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "0",
+	"json" : "http://bcx.minebig.com/index.php?page=api&action=getpoolstatus&api_key=1597a0553095de6251ba7cfac73df54ce1449350c6566043c3dc371394f8ccbb",
+	"port" : "18715",
+	"name" : "Battlecoin",
+	"initialReward" : "50",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+	
+"CAP" :
+	{
+	"url" : "stratum+tcp://cap.cryptotroll.com:3335",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://cap.cryptotroll.com/index.php?page=api&action=getpoolstatus&api_key=6784755e00b8e118e94ca1164d492f31bd5c351acde8e298459b21ade187fe05",
+	"port" : "8385",
+	"name" : "Bottlecaps",
+	"initialReward" : "10",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+	
+"SMC" :
+	{
+	"url" : "stratum+tcp://mining.updamoon.com:9005",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "https://smc.updamoon.com/index.php?page=api&action=getpoolstatus&api_key=1597a0553095de6251ba7cfac73df54ce1449350c6566043c3dc371394f8ccbb",
+	"port" : "58583",
+	"name" : "Smartcoin",
+	"initialReward" : "0",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+	
+"WDC" :
+	{
+	"url" : "stratum+tcp://pool.d2.cc:3335",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "https://wdc.d2.cc/api.php",
+	"port" : "11082",
+	"name" : "Worldcoin",
+	"initialReward" : "64",
+	"halving" : "20160",
+	"blockCalc" : "1",
+	"minimum" : "-1"
+	},
+	
+"DGC" :
+	{
+	"url" : "stratum+tcp://us1.stratum.cryptopools.com:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://dgc.cryptopools.com/index.php?page=api&action=getpoolstatus&api_key=b390729d8cd94f8275bbc229b75cb60b4a1ec73249349ef5efc3e6c3bf3d0bc5",
+	"port" : "7998",
+	"name" : "Digitalcoin",
+	"initialReward" : "15",
+	"halving" : "4730400",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"EMC2" :
+	{
+	"url" : "stratum+tcp://emc2-ca.lifeforce.info:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://emc2.lifeforce.info/index.php?page=api&action=getpoolstatus&api_key=dc4bb6cd4c296253cdfaf5bf96870484cd16ac67694b18f8e247d0cf332bd374",
+	"port" : "41879",
+	"name" : "Einsteinium",
+	"initialReward" : "0",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+	,
+"POT" :
+	{
+	"url" : "stratum+tcp://us.miningempire.co:3335",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://potcoinpool.com/index.php?page=api&action=getpoolstatus&api_key=142bbb186be0aecb654bada14db05a8908bfb45bc8dc73be284c1a7630a8afc4",
+	"port" : "4242",
+	"name" : "Potcoin",
+	"initialReward" : "420",
+	"halving" : "840000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"NOBL" :
+	{
+	"url" : "stratum+tcp://nobl.poolerino.com:3344",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://nobl.poolerino.com/index.php?page=api&action=getpoolstatus&api_key=8e0ad4286e4b9d9ef183e523159f0a585fd2b69906590adb9b6d8fa5ff6afe47",
+	"port" : "55883",
+	"name" : "Nolbecoin",
+	"initialReward" : "5000",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	}
+	
+	
+"NYAN" :
+	{
+	"url" : "stratum+tcp://fortynyaners.com:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://fortynyaners.com/index.php?page=api&action=getpoolstatus&api_key=150720ecdde5db85ef14b26ffe406a5b37c9753d63f4d69fb4280f625620b856",
+	"port" : "33700",
+	"name" : "Nyancoin",
+	"initialReward" : "337",
+	"halving" : "337000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+	
+	
+"RPC" :
+	{
+	"url" : "stratum+tcp://rpc.muchhash.com:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "https://rpc.muchhash.com/index.php?page=api&action=getpoolstatus&api_key=bded7e6a8270da47502581c2cbe4990e0a287590b7a5965fbf0656374a46ce42",
+	"port" : "9026",
+	"name" : "Ron Paul Coin",
+	"initialReward" : "1",
+	"halving" : "1051200",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+	
+	
+"BQC" :
+	{
+	"url" : "http://bbq.ltcoin.net:8001",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://bbq.ltcoin.net/papi.php",
+	"port" : "19332",
+	"name" : "BBQCoin",
+	"initialReward" : "42",
+	"halving" : "24000000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+	
+	"42":
+	{
+	"url" : "stratum+tcp://stratum-east.42.hashfaster.com:4003",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://42.hashfaster.com/index.php?page=api&action=getpoolstatus&api_key=9106ec237f048f3a08d994074bf03c63998933f35970e66cec473aa73ecbd261",
+	"port" : "4242",
+	"name" : "42",
+	"initialReward" : "0.00000010",
+	"halving" : "0",
+	"blockCalc" : "1",
+	"minimum" : "-1"
+	},
+"ALF":
+	{
+	"url" : "stratum+tcp://alpha.ub3rl33t.com:4444",
+	"user" : "shasoftware.1",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "",
+	"port" : "9539",
+	"name" : "Alphacoin",
+	"initialReward" : "50",
+	"halving" : "2073600",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+	
+	
+"SBC" :
+	{
+	"url" : "stratum+tcp://sbc.hashfaster.com:3338",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://sbc.hashfaster.com/index.php?page=api&action=getpoolstatus&api_key=919f09216e6cb92b36b6bba15d4b1278cfa84b80b4c518a81270079bf2b20483",
+	"port" : "17501",
+	"name" : "Stablecoin",
+	"initialReward" : "25",
+	"halving" : "2917080",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	}
+	"AUR" :
+	{
+	"url" : "stratum+tcp://us-west.multipool.us:3362",
+	"user" : "shasoftware.shasoftware", 
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://api.multipool.us/api.php",
+	"port" : "12341",
+	"name" : "Auroracoin",
+	"initialReward" : "25",
+	"halving" : "420000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+	
+	,
+"CACH" :
+	{
+	"url" : "stratum+tcp://cach.catcoin.cz:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "4",
+	"json" : "http://cach.catcoin.cz/index.php?page=api&action=getpoolstatus&api_key=4480bbbf08e089279be9320386153864205e58de17e638f9503ccb9542411214",
+	"port" : "",
+	"name" : "",
+	"initialReward" : "",
+	"halving" : "",
+	"blockCalc" : "",
+	"minimum" : "-1"
+	},
+"CSC" :
+	{
+	"url" : "stratum+tcp://norteamerica.megamineros.com:3334",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "https://www.megamineros.com/CSC/index.php?page=api&action=getpoolstatus&api_key=efa810a39b2c7d04d9c8320fc4342f8680f9d0e8432b73e30ff809ddb1ef96df",
+	"port" : "47970",
+	"name" : "Casinocoin",
+	"initialReward" : "50",
+	"halving" : "3153600",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"LYC" :
+	{
+	"url" : "stratum+tcp://lyc.n50.ru:3336",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://lyc.n50.ru/index.php?page=api&action=getpoolstatus&api_key=c5ebfdf0e3714bcb7b5ba59ecd07b19708e378855315049e10b0e1bf58522058",
+	"port" : "58861",
+	"name" : "Lycancoin",
+	"initialReward" : "2970",
+	"halving" : "800000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"MRY" :
+	{
+	"url" : "stratum+tcp://sfo.fusionhash.com:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "https://fusionhash.com/murraycoin/index.php?page=api&action=getpoolstatus&api_key=86a57ee915c366b2f72debcaf766f8959f31ee78894b48f2471963aa9e7eb040",
+	"port" : "11950",
+	"name" : "Murraycoin",
+	"initialReward" : "60",
+	"halving" : "300000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"PHS" :
+	{
+	"url" : "stratum+tcp://phs.cryptcoins.net:3993",
+	"user" : "shasoftware.1",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "http://phs.cryptcoins.net/api",
+	"port" : "16282",
+	"name" : "Philosopherstone",
+	"initialReward" : "64",
+	"halving" : "64800",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"CAP" :
+	{
+	"url" : "stratum+tcp://cap.cryptotroll.com:3335",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "1",
+	"json" : "http://cap.cryptotroll.com/index.php?page=api&action=getpoolstatus&api_key=6784755e00b8e118e94ca1164d492f31bd5c351acde8e298459b21ade187fe05",
+	"port" : "8385",
+	"name" : "Bottlecaps",
+	"initialReward" : "10",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+"BTB" :
+	{
+	"url" : "stratum+tcp://stratum.forkpool.com:3341",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "https://btb.forkpool.com/index.php?page=api&action=getpoolstatus&api_key=1597a0553095de6251ba7cfac73df54ce1449350c6566043c3dc371394f8ccbb",
+	"port" : "9344",
+	"name" : "Bitbar",
+	"initialReward" : "10",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+"FTC" :
+	{
+	"url" : "stratum+tcp://stratum.wemineftc.com:3333",
+	"user" : "shasoftware.1",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "http://www.wemineftc.com/api",
+	"port" : "9527",
+	"name" : "Feathercoin",
+	"initialReward" : "200",
+	"halving" : "840000",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"EMC2" :
+	{
+	"url" : "stratum+tcp://emc2-ca.lifeforce.info:3333",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "http://emc2.lifeforce.info/index.php?page=api&action=getpoolstatus&api_key=dc4bb6cd4c296253cdfaf5bf96870484cd16ac67694b18f8e247d0cf332bd374",
+	"port" : "41879",
+	"name" : "Einsteinium",
+	"initialReward" : "0",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+"IFC" :
+	{
+	"url" : "stratum+tcp://ifc-pool.com:8112",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "http://www.ifc-pool.com/index.php?page=api&action=getpoolstatus&api_key=f46aa653b2d087c4120ad953955226421e3025800f51ad8296c9ebcda1b95205",
+	"port" : "9322",
+	"name" : "Infinitecoin",
+	"initialReward" : "524288",
+	"halving" : "86400",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"NOBL" :
+	{
+	"url" : "stratum+tcp://nobl.poolerino.com:3344",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "http://nobl.poolerino.com/index.php?page=api&action=getpoolstatus&api_key=8e0ad4286e4b9d9ef183e523159f0a585fd2b69906590adb9b6d8fa5ff6afe47",
+	"port" : "55883",
+	"name" : "Nolbecoin",
+	"initialReward" : "5000",
+	"halving" : "0",
+	"blockCalc" : "-1",
+	"minimum" : "-1"
+	},
+"NET" :
+	{
+	"url" : "stratum+tcp://east1.us.stratum.dedicatedpool.com:3343",
+	"user" : "shasoftware.shasoftware",
+	"pass" : "x",
+	"type" : "-1",
+	"json" : "http://net.dedicatedpool.com/index.php?page=api&action=getpoolstatus&api_key=c00e358019934e5437f7ee260f1f0ea4935d00863b9a00075cec6e8c1dbb494f",
+	"port" : "11311",
+	"name" : "Netcoin",
+	"initialReward" : "1024",
+	"halving" : "129600",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+
+"STR" :
+	{
+	"url" : "50.66.72.155:18217",
+	"user" : "owltest",
+	"pass" : "dgsjkbksbJFg87qAiFBbgf9",
+	"type" : "-1",
+	"json" : "",
+	"port" : "18217",
+	"name" : "Starcoin",
+	"initialReward" : "50",
+	"halving" : "1051200",
+	"blockCalc" : "0",
+	"minimum" : "-1"
+	},
+"STR" :
+	{
+	"url" : "stratum+tcp://stratum.doge.hashfaster.com:3339",
+	"user" : "owltest",
+	"pass" : "dgsjkbksbJFg87qAiFBbgf9",
+	"type" : "-1",
+	"json" : "",
+	"port" : "22555",
+	"name" : "Dogecoin",
+	"initialReward" : "500000",
+	"halving" : "100000",
+	"blockCalc" : "0",
+	"minimum" : "10000"
+	}
+	

@@ -1,0 +1,122 @@
+04/29/2014  02:35 PM        22,967,808 Batcoin-qt_new_.exe
+04/29/2014  02:37 PM         8,345,807 Battlecoin-1.3.1-Qt.rar					SHA256						
+04/29/2014  02:33 PM         7,381,282 BBQcoin.rar						
+04/29/2014  02:40 PM        18,340,173 Benjamins-WindowsQT.rar					Sha256
+04/29/2014  02:41 PM        10,672,250 Betacoin-0.8.99.14-win32-setup.zip			SHA256
+04/29/2014  02:42 PM        11,188,746 bitbar-0.4.3-win32.zip					PoS
+04/29/2014  02:46 PM        12,016,520 bitcoin-0.9.1-win64-setup.exe				SHA256
+04/29/2014  02:48 PM        10,428,478 bitgem-0.4.1.7-win32-setup.exe				PoW/PoS Hybrid
+04/29/2014  02:53 PM         9,703,505 blackcoin-1.0.6-windows.zip				PoS
+04/29/2014  02:54 PM         7,220,367 Bottlecaps V 1.5.2 Windows QT.rar			PoW/PoS hybrid
+04/29/2014  02:54 PM         6,680,019 bytecoin-0.8.1-win32.7z					SHa256
+04/29/2014  02:56 PM         7,581,462 CACHeCoin-Qt-Windows-SSLfix-v5.0.2.zip			PoW/PoS hybrid
+04/29/2014  03:00 PM         7,047,122 CASH Windows QT v1.1.rar					DONE TO HERE - PoW/PoS hybrid
+04/29/2014  03:02 PM        15,340,895 casinocoin-1.1.0.0.zip 					DONE
+04/29/2014  03:04 PM         8,810,464 CHNCoin-0.6.4-Windows-QT.zip
+04/29/2014  03:04 PM         8,731,142 CinniCoin.zip						PoS
+04/29/2014  03:05 PM        10,673,972 Colossuscoin1.5.2.rar					PoW/PoS Hybrid
+04/29/2014  03:05 PM        10,213,541 CommunityCoin15.zip					PoS
+04/29/2014  03:06 PM         9,460,685 continuumcoin-qt-kimoto-v0.9.0.1.zip			Sha256
+04/29/2014  03:08 PM        15,195,440 Copperbars-1.0.1-Qt.rar
+07/29/2013  08:13 AM         6,670,461 cosmoscoin-1.9.exe					PoW/PoS Hybrid
+04/29/2014  03:18 PM         8,609,731 craftcoin-qt_v120.zip					
+04/29/2014  03:18 PM         7,112,110 CryptoBuck V1.1.2.60006 -  Windows QT.rar		PoW/PoS Hybrid
+04/29/2014  03:20 PM         7,682,359 CryptogenicBullion_1.1.6.7-win-setup.zip			PoW/PoS Hybrid
+04/29/2014  07:36 PM        10,329,892 damacoin-qt.zip
+04/29/2014  07:37 PM        20,791,808 darkcoin-qt.exe
+04/29/2014  07:39 PM        10,670,498 DiamondCoin-1.0.4-win32.zip				PoW/PoS Hybrid
+04/29/2014  07:41 PM        11,678,664 digibyte-2.9.1-win32-setup.exe				
+04/29/2014  07:46 PM        11,146,443 digitalcoinWindows-master.zip
+04/29/2014  07:44 PM         8,057,278 dogecoin-1.6.0.0-win32-setup.exe
+04/29/2014  07:58 PM         9,764,098 doubloons-qt-master.zip
+04/29/2014  08:04 PM        12,714,442 EarthCoin12.zip
+04/29/2014  08:07 PM        10,137,703 einsteinium-qt-1.1.zip					DONE
+04/29/2014  08:05 PM        12,166,887 elacoin.zip
+04/29/2014  08:02 PM        12,357,511 ElephantCoin12.zip
+04/29/2014  08:06 PM         7,681,666 eMarks-1.0.0.rar-------------checked to here for PoW
+04/29/2014  08:04 PM         9,943,742 Emerald13.rar
+04/29/2014  08:08 PM        11,179,001 execoin-0.8.6.2-kgw-win32-setup.exe
+04/29/2014  08:07 PM        11,756,636 ezcoin064r8.zip
+04/29/2014  08:08 PM        12,209,027 fastcoin-8.5.3-win32-EasyInstall.exe
+04/29/2014  08:13 PM         7,252,591 feathercoin-setup-0.8.6.2.exe
+04/29/2014  08:22 PM         8,967,296 fedoracoin-1.0-win32-setup.exe
+04/29/2014  08:27 PM        16,240,180 FlappyCoin-Windows.zip
+04/29/2014  08:27 PM        11,978,803 florincoin-winqt-065r13.zip
+04/29/2014  08:31 PM        26,194,861 fluttercoin-0.4.5.5-windows.zip
+04/29/2014  08:31 PM        30,572,220 franko-win32.zip
+04/29/2014  08:33 PM        12,236,174 freicoin-0.8.3-1-win32-setup.exe
+04/29/2014  08:26 PM         3,349,824 freicoin-0.8.3-1.zip
+04/29/2014  08:38 PM        11,186,201 GlobalCoin-1.5.3.zip
+04/29/2014  08:53 PM        12,196,555 Grandcoin.zip
+04/29/2014  08:52 PM        13,031,804 heavycoin-1.2-win32.zip
+04/29/2014  08:54 PM        10,158,869 HoboNickels-qt-1.4.0.0.zip				DONE
+04/29/2014  08:55 PM         9,537,587 hypercoin-fork-winqt.zip
+04/29/2014  08:58 PM        11,421,132 infinitecoin-1.8.8-win32.zip
+04/29/2014  08:59 PM        12,745,308 ixcoin-0.3.24.3-win32.zip
+04/29/2014  08:58 PM        12,291,040 joulecoin0899r12win.zip
+04/29/2014  09:00 PM        22,862,945 JunkCoin.zip
+04/29/2014  09:12 PM        12,302,173 kgcnwalletkgw.zip
+04/29/2014  09:11 PM        18,475,753 kittehcoin_v0.8.6.2-kgw.zip
+04/29/2014  09:09 PM        10,725,559 KlondikeForWindows.zip
+04/29/2014  09:08 PM        11,087,867 leafcoin-qt-1.62.zip
+04/29/2014  09:12 PM        13,246,116 litecoin-0.8.7.1-win32-setup.exe
+04/29/2014  09:13 PM        12,977,064 LOT.zip
+04/29/2014  09:11 PM        12,300,730 Lucky7Coin.zip
+04/29/2014  09:13 PM         9,188,223 LuckycoinQT-master.zip
+04/29/2014  09:11 PM         1,236,337 Lycancoin-QT_1.1.4.zip
+04/29/2014  09:13 PM         8,233,785 Mastercoin-QT-v1.1a.rar
+04/29/2014  09:17 PM        12,542,817 Mazacoin.zip
+04/29/2014  09:19 PM         9,989,114 megacoin-0.8.996G-win32-setup.exe
+04/29/2014  09:18 PM         7,167,264 Memecoin-qt-2.1.rar
+04/29/2014  09:21 PM        28,869,991 mincoin-0.8.7.0-win32.zip
+04/29/2014  09:23 PM         6,528,763 Mooncoin-1.862.1.7z
+04/29/2014  09:27 PM        10,159,295 murraycoin-0.8.6.1c-win32.zip
+04/29/2014  09:26 PM        12,318,093 namecoin_win_vQ.3.72.zip
+04/29/2014  09:24 PM         9,194,972 Nanotoken v3.3.0.0 Windows.zip
+04/29/2014  09:28 PM        16,037,376 Netcoin-qt.msi
+04/29/2014  09:27 PM         8,687,041 Noirbits Windows Client.rar
+04/29/2014  09:29 PM        12,497,341 novacoin-nosetup-0.4.4.7-bugfix4-win32-amd64.zip
+04/29/2014  09:28 PM           907,806 Nxt 1.0.0 Web Setup.exe
+04/29/2014  09:26 PM         7,024,162 Nybble-6.5.2.rar
+04/29/2014  02:48 PM         9,589,702 protoshares-0.2.0.zip
+04/29/2014  03:08 PM        13,771,074 Setup-CopperLark-win-x86.exe
+04/29/2014  10:21 PM         7,618,487 LotteryTickets Windows QT V1.1.rar
+04/29/2014  09:49 PM        10,015,243 NyanCoin.zip								DONE
+04/29/2014  09:53 PM         8,622,926 Obritcoin-1.0.0-Installer.exe
+04/29/2014  09:57 PM         9,324,952 Pennies-v0.10.2.1-abe.zip
+04/29/2014  10:00 PM         9,415,165 Philosopherstone-1.5.0-win32.zip
+04/29/2014  09:59 PM        10,418,057 phoenixcoin-win-0.6.5.2.zip
+04/29/2014  10:06 PM        21,722,174 potcoin-0.8.6.3-158-win32-setup.exe		DONE
+04/29/2014  09:56 PM         9,589,478 ppcoin-0.4.0-win32-setup.exe
+04/29/2014  10:04 PM        12,288,472 primecoin-0.1.2-win32-setup.exe
+04/29/2014  10:03 PM        12,001,990 Quark-win.exe
+04/29/2014  10:03 PM         9,221,032 RabbitCoin_win_1.0.0.1.zip
+04/29/2014  10:07 PM        12,542,609 redcoin.zip								
+04/29/2014  10:18 PM        13,442,682 reddcoin-1.1.3.3-win.zip					DONE
+04/29/2014  10:29 PM        10,706,848 release-whitecoin.rar
+04/29/2014  10:10 PM        15,538,875 RonPaulCoin_v2.0-QT.zip					DONE
+04/29/2014  10:12 PM         5,598,838 royalcoin-qt.zip
+04/29/2014  10:20 PM        11,685,547 securecoin-qt.zip
+04/29/2014  10:29 PM        14,689,586 sexcoin-qt-0.6.4.5-win32.zip
+04/29/2014  10:18 PM        11,322,818 smartcoin-1.3.2.0.zip					DONE
+04/29/2014  10:12 PM         9,928,704 spaincoin-v0901.msi
+04/29/2014  10:17 PM         7,522,615 Spots_Windows_QT_V1.1-79000.rar
+04/29/2014  10:17 PM        11,178,600 stablecoin-qt-master.zip					DONE
+04/29/2014  10:27 PM        12,650,627 Starcoin.zip
+04/29/2014  10:19 PM        10,567,269 tagcoin-qt-master.zip
+04/29/2014  10:16 PM         8,154,661 TEKcoin.7z
+04/29/2014  10:25 PM        12,294,113 terracoin-0.8.0.2-53-win32.zip
+04/29/2014  10:19 PM        13,057,348 Tigercoin11.zip
+04/29/2014  10:18 PM           991,057 Ultracoin-release-1.0.2-qt.rar
+04/29/2014  10:24 PM        10,221,252 Unobtanium-0.9.2.9-Setup.exe
+04/29/2014  10:29 PM         9,019,586 vertcoin-0.8.6.4-win32-setup.exe
+04/29/2014  10:12 PM        11,495,670 Wallet-master.zip
+04/29/2014  10:28 PM        12,584,076 worldcoin-qt-windows-8.5.1(2).zip		DONE
+04/29/2014  10:30 PM        22,967,664 Xencoin.zip
+04/29/2014  10:22 PM         8,957,000 yacoin-qt-2013-05-09.zip
+04/29/2014  10:21 PM           512,564 ybcminer-3.3.1-yac2-windows-x64.zip
+04/29/2014  10:27 PM         8,624,477 ZcCoin_Release_0.5.2.2.zip
+04/29/2014  10:29 PM         9,537,184 Zedcoin-QT21.zip
+04/29/2014  10:29 PM         9,864,335 zeitcoin.zip
+04/29/2014  10:26 PM        12,324,720 zetacoin0899r16win.zip
+
